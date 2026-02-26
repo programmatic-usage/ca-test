@@ -208,7 +208,7 @@ export default function MegaSnakeGame() {
         <div className="text-center max-w-2xl">
           <div className="text-6xl mb-4">🕷️</div>
           <h1 className="text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-yellow-400 to-blue-500 mb-4">
-            MEGA SNAKE
+            MEGA SNAKE - NJ Change
           </h1>
           <p className="text-xl text-purple-300 mb-8">MARVEL EDITION</p>
           
